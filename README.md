@@ -36,6 +36,12 @@ The user will then need to hit the "Generate Password" button to restart the pro
 
 ___
 
+## Link to Project
+
+https://ccraig7321.github.io/Password-Generator/
+
+___
+
 ## Technologies
 
 - HTML
